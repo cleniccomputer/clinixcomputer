@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Clinix Computer",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/3.png",
+    "logo_white": "/images/2.png",
+    "logo_width": "150",
+    "logo_height": "50",
+    "logo_text": "Geeky"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "Mulai petualanganmu di dunia kode (coding) dengan tutorial yang ramah pemula.",
+    "copyright": "Designed and Developed By [Clinix Computer](https://statichunt.com/)"
+  },
+  "metadata": {
+    "meta_author": "Clinix Computer",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Mulai petualanganmu di dunia kode"
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "Mulai petualanganmu di dunia kode (coding) dengan tutorial yang ramah pemula"
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Newsletter",
+      "content": "Bergabunglah dengan ribuan pelanggan Clinix Computer dan dapatkan info terbaik kami setiap minggu!",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": false,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
