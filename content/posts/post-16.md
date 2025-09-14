@@ -7,9 +7,13 @@ featured: false
 draft: false
 ---
 
+Untuk anda yang mencari atau ingin download Microsoft Office 365 Offline Installer, kali ini akan saya sediakan, seperti yang kita tahu, office 365 merupakan product subcription atau langganan ( ga ada jamunya ) dari microsoft yang bisa di gunakan sebagai desktop app atau online app langsung di office.com
+
+apabila anda ingin menggunakan Microsoft Office 365, anda harus memiliki akun dan langganan dari situs microsoft. Sengaja saya sediakan versi Offline installer office 365, mungkin dari kita ada yang tidak ingin melulu install office 365 harus online yang terus menyita koneksi internet, kalau Microsoft Office 365 Offline Installer begini, anda hanya tinggal install dan login menggunakan akun office 365 anda kemudian office 365 akan teraktivasi.
+
 Semua tautan di bawah ini bersumber resmi dari Microsoft dengan lisensi Retail dan saluran pembaruan terkini.
 
-<Notice type="note">
+<Notice type="tips">
 
 <Accordion title="📌 Klik untuk informasi lengkap">
 
