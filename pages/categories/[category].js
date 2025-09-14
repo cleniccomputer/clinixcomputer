@@ -11,9 +11,9 @@ const { blog_folder } = config.settings;
 const Category = ({ postsByCategories, category, posts, categories }) => {
   return (
     <Base title={category}>
-      <div className="section mt-16">
+      <div className="section mt-2">
         <div className="container">
-          <h1 className="h2 mb-12">
+          <h1 className="h2 mb-4">
             Menampilkan postingan dari
             <span className="section-title ml-1 inline-block capitalize">
               {category.replace("-", " ")}

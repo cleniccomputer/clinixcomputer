@@ -15,7 +15,7 @@ const Categories = ({ categories }) => {
         {markdownify(
           "Categories",
           "h1",
-          "h2 mb-16 bg-theme-light dark:bg-darkmode-theme-dark py-12 text-center lg:text-[55px]"
+          "h2 mb-6 bg-theme-light dark:bg-darkmode-theme-dark py-8 text-center lg:text-[55px]"
         )}
         <div className="container pt-12 text-center">
           <ul className="row">

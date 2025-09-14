@@ -7,7 +7,7 @@
     "logo_white": "/images/2.png",
     "logo_width": "150",
     "logo_height": "50",
-    "logo_text": "Geeky"
+    "logo_text": "Clinix Computer"
   },
   "settings": {
     "theme_switcher": true,
@@ -23,7 +23,7 @@
   "params": {
     "tag_manager_id": "",
     "footer_content": "Mulai petualanganmu di dunia kode (coding) dengan tutorial yang ramah pemula.",
-    "copyright": "Designed and Developed By [Clinix Computer](https://statichunt.com/)"
+    "copyright": "Designed and Developed By [Clinix Computer](https://clinixcomputer.netlify.app/)"
   },
   "metadata": {
     "meta_author": "Clinix Computer",
@@ -48,7 +48,7 @@
       "enable": true,
       "title": "Newsletter",
       "content": "Bergabunglah dengan ribuan pelanggan Clinix Computer dan dapatkan info terbaik kami setiap minggu!",
-      "privacy_policy_page": "#",
+      "privacy_policy_page": "/privacy",
       "malichipm_url": ""
     }
   },
